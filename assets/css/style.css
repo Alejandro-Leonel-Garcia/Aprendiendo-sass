@@ -49,20 +49,6 @@ header nav ul li a {
 header nav ul li:hover a {
   color: yellow;
 }
-header nav ul .sub-menu {
-  position: relative;
-}
-header nav ul .sub-menu .refe {
-  display: none;
-}
-header nav ul .sub-menu:hover .refe {
-  display: block;
-  background-color: black;
-  color: white;
-  position: absolute;
-  top: 0;
-  padding: 10px;
-}
 
 /* Titulo de los encabezados */
 main .encabezado {

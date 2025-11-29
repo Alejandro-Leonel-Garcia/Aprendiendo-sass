@@ -40,24 +40,7 @@ header {
         &:hover a {
           color: yellow;
         }
-      }
-
-      .sub-menu {
-        position: relative;
-
-        .refe {
-          display: none;
-        }
-
-        &:hover .refe {
-          display: block;
-          background-color: black;
-          color: white;
-          position: absolute;
-          top: 0;
-          padding: 10px;          
-        }
-      }
+      }      
     }
   }
 }
